@@ -1,0 +1,20 @@
+
+/* Variables */
+:root {
+  --default-padding: 8px;
+  --earth-surface: #7EB6D9;
+  --earth-borders: #C9EBF2;
+  --earth-water: #0E3D59; 
+  --trace: #3981BF;
+}
+
+.svg-container {
+  fill: var(--earth-surface);
+  stroke: var(--earth-surface);
+}
+
+.circleNow {
+  stroke:var(--trace);
+}
+
+
